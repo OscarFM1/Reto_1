@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: hsl(180, 58%, 18%);
+}
+header{
+    color: white;
+    background-color: hsl(311, 22%, 29%);
+    text-align: center;
+    font-size: 25px;
+}
+
+h2{
+    margin-bottom: 10px;
+    color: rgb(243, 236, 236);
+}
+h1{
+    size: 10px;
+}
+p{
+    background-color: hsl(180, 94%, 28%);
+    border-radius: 20px;
+    padding: 12px 0;
+}
+
+section{
+    text-align: center;
+    border-radius: 10px;
+}
+
+.palabras {
+    width: 45%;
+    display: inline-block;
+}
+
+.personal {
+    width: 45%;
+    display: inline-block;
+}
+
+.suponer {
+    width: 45%;
+    display: inline-block;
+}
+
+.maximo{
+    width: 45%;
+    display: inline-block;
+    height: auto;
+}
